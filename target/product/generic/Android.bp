@@ -727,7 +727,6 @@ system_image_defaults {
             "ss",
             "start_with_lockagent",
             "strace",
-            "su",
             "tinycap",
             "tinyhostless",
             "tinymix",
